@@ -1,6 +1,8 @@
 # leetcode
 Leet Code
 
+https://leetcode.com/JiweiYuan/
+
 ## Current Focus  
 
 Tag: easy array 
