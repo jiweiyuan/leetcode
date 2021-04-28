@@ -1,7 +1,11 @@
-# leetcode
-Leet Code
+# LeetCode Solution by JavaScript
 
-https://leetcode.com/JiweiYuan/
+[My LeetCode](https://leetcode.com/JiweiYuan/)
+
+## Introduction
+
+I Start my LeetCode from 2021.04.19
+Now I have finish 14
 
 ## Current Focus  
 
