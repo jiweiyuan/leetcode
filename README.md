@@ -5,7 +5,7 @@
 ## Introduction
 
 From 2021.04.19, I start my LeetCode.
-By 2021.04. 28, I have finish 20.
+By 2021.04. 28, I have finish 18.
 
 ## Current Focus  
 
