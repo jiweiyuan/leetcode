@@ -6,9 +6,10 @@
 
 From 2021.04.19, I start my LeetCode.
 
-By 2021.04.28, I have finish 18.
+By 2021.04.30, I have finish 22.
 
 ## Current Focus  
 
 Tag: easy array 
+
 Url: https://leetcode.com/problemset/all/?topicSlugs=array&difficulty=Easy
