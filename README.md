@@ -6,7 +6,7 @@
 
 From 2021.04.19, I start my LeetCode.
 
-By 2021.05.03, I have finish 42.
+By 2021.05.04, I have finish 44/1851.
 
 ## Current Focus  
 
