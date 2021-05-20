@@ -10,6 +10,5 @@ By 2021.05.13, I have finish 75/1857.
 
 ## Current Focus  
 
-Tag: easy array 
+Tag: [easy array](https://leetcode.com/problemset/all/?topicSlugs=array&difficulty=Easy)
 
-Url: https://leetcode.com/problemset/all/?topicSlugs=array&difficulty=Easy
