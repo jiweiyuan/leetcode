@@ -1,4 +1,4 @@
-// findRotation
+// https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/
 
 function findRotation(mat, target) {
     return equals(mat, target) || equals(rotate(mat), target) || equals(rotate(rotate(mat)), target)
