@@ -13,3 +13,11 @@ By 2021.05.31, I have finish 107/1883.
 
 Tag: [easy array](https://leetcode.com/problemset/all/?topicSlugs=array&difficulty=Easy)
 
+## Plan
+
+- 二分法
+  - 题解 https://leetcode-cn.com/problems/search-insert-position/solution/te-bie-hao-yong-de-er-fen-cha-fa-fa-mo-ban-python-/
+
+
+- sliding window 
+ - https://www.youtube.com/watch?v=MK-NZ4hN7rs
