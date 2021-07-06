@@ -1,5 +1,5 @@
-//
-// 0028
+// https://leetcode.com/problems/implement-strstr/
+
 
 function strStr(haystack, needle) {
     if(needle === '') return 0
