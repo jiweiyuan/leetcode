@@ -1,0 +1,23 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "[My LeetCode](https://leetcode.com/JiweiYuan/)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiweiyuan/leetcode.git"
+  },
+  "keywords": [
+    "LeetCode"
+  ],
+  "author": "JiweiYuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiweiyuan/leetcode/issues"
+  },
+  "homepage": "https://github.com/jiweiyuan/leetcode#readme"
+}
